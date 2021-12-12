@@ -1,14 +1,14 @@
 # quadratic
 
-A Clojure library designed to ... well, that part is up to you.
+Refer to
 
-## Usage
+https://sidhartarezende.medium.com/tdd-in-clojure-part-2-the-detroit-way-a93d8d775a5d
 
-FIXME
+for more info
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021 Sidharta Rezende
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
